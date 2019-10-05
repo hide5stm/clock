@@ -1,2 +1,2 @@
 all:
-	gcc -Wall -Wno-unused-variable -pg -lm -O2 gif.c 
+	gcc -Wall -Wno-unused-variable -pg -lm -O2 gif.c -o gif
